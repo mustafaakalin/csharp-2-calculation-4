@@ -12,3 +12,4 @@
 /home/mustafa/Documents/projects/csharp/csharp-2-calculation-4/obj/Debug/net8.0/csharp-2-calculation-4.pdb
 /home/mustafa/Documents/projects/csharp/csharp-2-calculation-4/obj/Debug/net8.0/csharp-2-calculation-4.genruntimeconfig.cache
 /home/mustafa/Documents/projects/csharp/csharp-2-calculation-4/obj/Debug/net8.0/ref/csharp-2-calculation-4.dll
+/home/mustafa/Documents/projects/csharp/csharp-2-calculation-4/obj/Debug/net8.0/csharp-2-calculation-4.sourcelink.json

@@ -8,6 +8,7 @@ namespace MyApp
         {
             // kontrol mekanizması switch case (durum kontrolü)
             start:
+            Console.WriteLine("############################################################\nYAPILABILIR ISLEMLER:\nTOPLAMA: +\nÇIKARMA: -\nÇARPMA: *\nBÖLME: /\n############################################################");
             Console.WriteLine("Lütfen 1. sayı giriniz: ");
             int sayi = int.Parse(Console.ReadLine());
             Console.WriteLine("Lütfen 2. sayı giriniz: ");
@@ -31,7 +32,8 @@ namespace MyApp
                     break;
                 default:
                     Console.WriteLine("Geçersiz işlem");
-                    break;
+                    goto start;
+                    // break;
             }
 
             // Console.WriteLine("Hello World!");
